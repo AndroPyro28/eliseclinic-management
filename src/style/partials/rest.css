@@ -1,0 +1,18 @@
+* {
+  font-family: 'Nunito', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 700;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #f9fafc !important;
+}
+
+button {
+  background-color: #00a69c !important;
+}
+
+h1 {
+  color: #00a69c !important;
+}
